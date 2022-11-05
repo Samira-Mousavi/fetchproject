@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color:rgb(52, 195, 198);
+   }
+   .header{
+    position: absolute;
+    padding-left: 680px;
+    top: 40px;
+
+   }
+   .bttn{
+    display: flex;
+    position: relative;
+    top: 70px;
+    color: aliceblue;
+    background-color: rgb(32, 126, 79);
+    margin-left:700px;
+    padding: 1rem 2rem;
+    border-radius: 1rem;
+}
+
+ #imageRandom {
+     
+    position: relative;
+    font-weight: 400;
+    top : 90px;
+    width: 300px;
+    height: 400px;
+    margin-left:620px;
+ }
+#fileSize {
+    position: relative;
+    top :120px;
+    margin-left:725px;
+}
+ 
